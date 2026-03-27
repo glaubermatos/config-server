@@ -2,9 +2,3 @@ message: Hello World from Github Config Server Repository
 
 server:
   port: 8081
-
-spring:
-  h2:
-    console:
-      enabled: true
-      path: /h2-console
